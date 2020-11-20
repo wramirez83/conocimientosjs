@@ -1,9 +1,9 @@
-#Actividad Inicial
+# Actividad Inicial
 1. Clonar el Repositorio Actual.
 2. Configurar el Entorno de Trabajo.
 3. Crear Archivo js (opcional)
 
-#Actividad de Trabajo
+# Actividad de Trabajo
 > Este trabajo nos permite saber el conocimiento básico en HTML, CSS y JS.
 Luego de clonar el repositorio actual van a desarrollar los siguientes pasos o requerimientos.
 
